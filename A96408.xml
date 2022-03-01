@@ -1,0 +1,200 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>My Lord Whitlock's reports on Machiavil; or His recollections for the use of the students of modern policy.</title>
+            <author>Whitlocke, Bulstrode, 1605-1675 or 6.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96408</idno>
+            <idno type="STC">Wing W1991</idno>
+            <idno type="STC">Thomason E1016_14</idno>
+            <idno type="STC">ESTC R208278</idno>
+            <idno type="EEBO-CITATION">99867238</idno>
+            <idno type="PROQUEST">99867238</idno>
+            <idno type="VID">168791</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96408)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168791)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 150:E1016[14])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>My Lord Whitlock's reports on Machiavil; or His recollections for the use of the students of modern policy.</title>
+                  <author>Whitlocke, Bulstrode, 1605-1675 or 6.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Thomas Bateman,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659 [i.e. 1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Marsh. 7.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168791:1" rendition="simple:additions"/>
+            <p>My Lord Whitlocks REPORTS ON Machiavil; OR HIS RECOLLECTIONS For the uſe of the Students of Modern Policy.</p>
+            <q xml:lang="lat">Lex esto Emolumentum.</q>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Bateman,</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168791:2"/>
+            <pb n="1" facs="tcp:168791:2"/>
+            <head>My Lord <hi>Whitlocks</hi> Reports, ON, MATCHIAVIL,</head>
+            <p>I Will not meddle with the Law, for that I did over-rule at my pleaſure, and therefore I propoſe no <hi>maximes,</hi> no un<g ref="char:EOLhyphen"/>queſtionable principles of the <hi>Norman</hi> ſove<g ref="char:EOLhyphen"/>raignty; I was by a new Common-Wealth name, called a Commiſſioner of the Seal, to as much purpoſe, as my Lord Ge<g ref="char:EOLhyphen"/>nerall <hi>Monck</hi> was made a Commiſſioner of the Army; the difference is, I would have turned my Maſters out of door by the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> of <hi>Safety</hi> for my own ends, and he has not left them to themſelves but as a mock and deriſion, to the general content and benefit of the three Kingdoms.</p>
+            <p>I ſhould diſcourſe of Equity and good Conſcience, and tell you how far—and ſomething further it might be ſtretched, for
+<pb n="2" facs="tcp:168791:3"/>a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Chaplain <hi>George Cockain</hi> ſaith, we ought not to be hide-bound in our Conſci<g ref="char:EOLhyphen"/>ences, where there is an opportunity of making our purſes to ſtrut and ſwell above the gaged meaſure of a Private Fortune: But I had learn'd ſo much without his Ex<g ref="char:EOLhyphen"/>ample or Precept, and a fig for that igno<g ref="char:EOLhyphen"/>rant Rabbie. I will now make the World my Confeſſor.</p>
+            <p>I was born to a Competent Inheritance, if it had meet and been entertained with a Competent mind, I was Chriſtned with an hard and ominous name <hi>Bulſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ode,</hi> to which my numerous iſſue have adapted and fitted the <hi>Onomatopeia;</hi> for never any Pariſh had ſuch a ſure ſtout ſtrider, as my ſelf: but be<g ref="char:EOLhyphen"/>fore I had ſuch a chargeable large Family, I was an Infidell in the publick Aconomy of the State, and I was ſo farre from caring for my Children, that I cared not for my Parent whom God and the Laws had given me; and I will briefly ſhew you the rea<g ref="char:EOLhyphen"/>ſons.</p>
+            <p>When the Long Parliament was called (which hath dwindled and ſhrunk up to a
+<pb n="3" facs="tcp:168791:3"/>Rump as ſhort as an old Hens? I was elected a Burgeſſe; I had had my education in the Nurſeries of the Law, the Inns of Court, and ſo ſuitably qualified for the charge and employment, and the fitter and more con<g ref="char:EOLhyphen"/>venient for the projects the great <hi>Bontefeus</hi> had <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>yed, if I could be gained to their Fa<g ref="char:EOLhyphen"/>ction<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: I had then no intereſt, but conten<g ref="char:EOLhyphen"/>ted my ſelf with ſeeing the Faſhions of the Parliament Houſe, but <hi>Pyms</hi> diſcerning eyes, ſpying that curioſity, preſently a<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>qued my unconcerned, undetermined mind, and with the proffers of greatneſſe and Po<g ref="char:EOLhyphen"/>pularity, brought me over to his d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſign: I was then his ſecond and my abilities were by him every way extolled, to this pur<g ref="char:EOLhyphen"/>poſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that where he ſmelt too <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>ckly (as in all the Over<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>es and Treaties <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I by his management and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ble direction, ſhould ſupply his abſence from which <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> by ſtrange <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yes obliged my ſelf by no means to vary.</p>
+            <p>This ſudd<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> brought me upon do Stage, I was appointed with the Ea<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of <hi>Nor<g ref="char:EOLhyphen"/>thumberland</hi>
+               <pb n="4" facs="tcp:168791:4"/> M. <hi>William Pierpoint,</hi> &amp;c. To attend the King at <hi>Oxford</hi> with Propoſiti<g ref="char:EOLhyphen"/>ons from both Houſes, where the great re<g ref="char:EOLhyphen"/>ſpect ſhewed to the other Commiſſioners during our ſtay; and the ſmall notice (or ra<g ref="char:EOLhyphen"/>ther diſreſpect) taken of me by the King, (which <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aggravated to my ſelf, by the con<g ref="char:EOLhyphen"/>ciouſneſſe of my ſtrict obediende to Mr. <hi>Pym</hi>) implanted in me ſuch an inveterate, im<g ref="char:EOLhyphen"/>placable malice to him and his poſterity, that I can better remember my crime, then tell how to expiate it, if it were poſſible ſuch a dutifull thought ſhould ever deign <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o harbour within me.</p>
+            <p>By this means I was partly lifted, and partly ſcrued up my ſelf to the Honour and greatneſſe of being entruſted with the kee<g ref="char:EOLhyphen"/>ping of the great Seal, the Rumps Confi<g ref="char:EOLhyphen"/>dent, the Darling of the new-born Free State. I was ſent to make ſpeeches againſt the young King at <hi>Guild-Hall</hi> when he was at <hi>Worceſter,</hi> which I did with ſo much vi<g ref="char:EOLhyphen"/>gour and confidence, that <hi>Titchburn</hi> the next day durſt throw the Kings Declarati<g ref="char:EOLhyphen"/>on
+<pb n="5" facs="tcp:168791:4"/>into the fire made at the Exchange, for which ſure he will con me little thanks.</p>
+            <p>My next grand employment, my Maſter<g ref="char:EOLhyphen"/>piece, was my Embaſſy unto <hi>Sweden</hi> (to which VISCOUNT Liſle after a review was not thought ſufficient) where as if I was born to baffle and deſpoſe Princes, I let the Queen <hi>Chriſtina</hi> on progreſſe through the world, as not being capable to act thoſe deſignes, which I was ſure the mony and promiſes of this State, would engage her ſucceſſor CHARLES to, viz. the diverting the forces of the Emperour from the ſuccour of Flaunders, and conſequently the intereſt of the King, by an invaſive war in Poland the Imperiall Dominions. Here I was al<g ref="char:EOLhyphen"/>moſt non-pluſt with the diſſolution of the Rump by OLIVER, which I preſently re<g ref="char:EOLhyphen"/>covered by an impudent complement, call<g ref="char:EOLhyphen"/>ing him, and ſtiling him, His moſt Serene Highneſs my Maſter, for which I thank him ſtill, he made me of his Treaſury, although his extravagancies permitted me not to be as nimble fingered as I would.</p>
+            <pb n="8" facs="tcp:168791:5"/>
+            <p> Was not I therefore, fit to be a Maſter of miſ-rule, and to be of that irregular <hi>Committee of Safety,</hi> where<g ref="char:EOLhyphen"/>in I was obliged to do the ſame ſervice for <hi>Lambert,</hi> as for <hi>Cromwel?</hi> I never could imagine the Rump any thing as long as the Sword <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Free-Parliament; What would your waye Polititian to do? I knew nothing but Arms could ſecure me, and that there was no Compoſ<gap reason="illegible" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> for my Eſtate, which conſiſts in the ſpoils of the <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> purpoſe I <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my ſelf as for <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> do for my Salary, and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> I pretended, for which I ſate alone in the cold weather three days in the Court of Chancery.</p>
+            <p>By theſe Arts I have changed my Mannor of <hi>Folly-Hall,</hi> into <hi>Knaves-Court at Cheſſey.</hi> I have drawn <hi>Wil<g ref="char:EOLhyphen"/>liam Lilly</hi> with a Golden Chain, to the making me his Heir to 200 <hi>l. per annum,</hi> and the like, though with no bait but cunning inſinuation, have I done to an <hi>Eſſex</hi> Gentleman that ſhall be nameleſs, for his names ſake. But what doth <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> will all this avail me? My Patron and Friend the King of <hi>Sweden</hi> is dead, and my incens'd Soveraign ſurvives my Plots and Devices. I will therefore timely bethink my ſelf of the Kings Clemency, and do as I ſee others doing before me; and ſo <hi>Exit</hi> all my Po<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Honour.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
